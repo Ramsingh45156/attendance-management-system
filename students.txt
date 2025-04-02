@@ -1,0 +1,3 @@
+Rahul,5,BBA,1
+Ram Singh,1,BCA,1
+Ram,2,BBA,2
